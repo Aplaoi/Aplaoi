@@ -1,10 +1,11 @@
 
 <div align="center">
-<h2> Hi there 👋</h2>
+<h1> Hi there 👋</h1>
 
-✨ This is **Apl** ✨ 
+<h2>✨ This is **Apl** ✨</h2> 
+
 🔬 My current Tech Stack is below :🔬
-My current
+
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,c,cpp,docker,figma,git,github,go,html,css,js,idea,java,md,maven,mysql,nginx,npm,opencv,ps,pinia,pnpm,powershell,pycharm,py,pytorch,redis,regex,spring,sklearn,ubuntu,vim,vite,vscode,vue,webstorm,windows" />
 </a>
