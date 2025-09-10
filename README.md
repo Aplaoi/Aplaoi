@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Aplaoi/Aplaoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h2> Hi there 👋</h2>
 
-Here are some ideas to get you started:
+✨ This is **Apl** ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,docker,figma,git,github,go,html,css,js,idea,java,md,maven,mysql,nginx,npm,opencv,ps,pinia,pnpm,powershell,pycharm,py,pytorch,redis,regex,spring,sklearn,ubuntu,vim,vite,vscode,vue,webstorm,windows" />
+</a>
+
+</div>
+
+- 🔭 I’m currently working on RAG workflow on LLM inference
+- ⚡ Life is short, I use **Python**
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Aplaoi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Aplaoi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aplaoi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" />
+</picture>
+
+
