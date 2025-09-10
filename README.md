@@ -2,7 +2,7 @@
 <div align="center">
 <h1> Hi there 👋</h1>
 
-<h2>✨ This is **Apl** ✨</h2> 
+<h2>✨ This is Apl ✨</h2> 
 
 🔬 My current Tech Stack is below :🔬
 
