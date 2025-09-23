@@ -2,7 +2,7 @@
 <div align="center">
 <h1> Hi there 👋</h1>
 
-<h2>✨ This is Apl ✨</h2> 
+✨ This is Apl ✨
 
 🔬 My current Tech Stack is below :🔬
 
@@ -12,7 +12,7 @@
 
 </div>
 
-- 🔭 I’m currently working on RAG workflow on LLM inference
+- 🔭 I’m currently working on LLM inference optimization
 - ⚡ Life is short, I use **Python**
 
 <picture>
