@@ -27,6 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Aplaoi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" />
 </picture>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aplaoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aplaoi&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
 
 
